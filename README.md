@@ -1,4 +1,8 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
+```
+Name:Pavithra P
+Reg No:212223110035
+```
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
