@@ -1,7 +1,7 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 ```
-Name:Pavithra P
-Reg No:212223110035
+Name:A joans jay authers
+Reg No:212221240019
 ```
 
 ## Aim: 
